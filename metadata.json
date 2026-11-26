@@ -1,0 +1,6 @@
+{
+  "name": "RATNODEEP: THE LOST REALM",
+  "description": "An interactive retro pixel-art adventure game and engineering portfolio by Ratnodeep — Student, Engineer, Builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
